@@ -1,0 +1,12 @@
+.{
+    .name = .zepto,
+    .version = "0.0.0",
+    .fingerprint = 0xbb17a0298fce8df8,
+    .minimum_zig_version = "0.17.1",
+    .dependencies = .{},
+    .paths = .{
+        "build.zig",
+        "build.zig.zon",
+        "src",
+    },
+}
